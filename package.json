@@ -1,0 +1,16 @@
+{
+  "name": "goomer-backend-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.2.1",
+    "husky": "^8.0.2",
+    "lint-staged": "^13.0.3"
+  }
+}
